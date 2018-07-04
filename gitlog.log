@@ -1,9 +1,9 @@
-commit 0f701ce1daad32de14d410b709f2ba517b576a62
+commit 829d9c7ba4c807b323f08885599db16561d1f30b
 Author: Anup Antony <anoop.kochi@gmail.com>
-Date:   Mon May 28 09:33:41 2018 -0400
+Date:   Wed May 30 05:23:26 2018 -0400
 
     Test Commit
 
- README.md  | 2 +-
- gitlog.log | 9 +++++++++
- 2 files changed, 10 insertions(+), 1 deletion(-)
+ README.md  |  2 ++
+ gitlog.log | 10 +++++-----
+ 2 files changed, 7 insertions(+), 5 deletions(-)
